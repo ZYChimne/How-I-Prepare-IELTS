@@ -1,20 +1,30 @@
 # How-I-Prepare-IELTS
-## Score
-### 2021.4.24
+## 2021.4.24
+### Score
 |Listening|Reading|Writing|Speaking|Overall|
 |:-:|:-:|:-:|:-:|:-:|
 |8.5|8.5|7.0|5.5|7.5|
 ### Problems
 
-## Listening
+### Listening
 * Cambridge IELTS Listening
-## Reading
+### Reading
 * Cambridge IELTS Reading
-## Writing
-### Task One
+### Writing
+#### Task One
 * Simon Writing Task One Material
-### Task Two
-* Simon Writing Task Two Material
+#### Task Two
+* Simon Writing Task Two Ideas
+* Simon Writing Task Two Essays
 * Cambridge IELTS Writing Samples
-## Speaking
+### Speaking
 * IELTS Speaking Topics 2021.1-4
+## 2021.7.10
+### Score
+### Problems
+### Listening
+### Reading
+### Writing
+#### Task One
+#### Task Two
+### Speaking
