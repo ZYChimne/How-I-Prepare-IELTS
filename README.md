@@ -26,7 +26,6 @@ Yet to take the exarm, good luck to me!
 ### Listening
 * Cambridge IELTS Listening
 * CNN Student News
-* TED
 ### Reading
 * Cambridge IELTS Reading
 ### Writing
@@ -39,4 +38,3 @@ Yet to take the exarm, good luck to me!
 ### Speaking
 * IELTS Speaking Topics 2021.5-9
 * CNN Student News
-* TED
