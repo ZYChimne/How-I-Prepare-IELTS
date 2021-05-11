@@ -253,10 +253,10 @@ I put some photographs I take on the wall to make it look nice, such as the pict
 * horror
 * legend
 * myth
-* peom
+* poem
 * anime
 * love stories
-* fra,a
+* drama
 * reference books
 * philosophy
 * social commentary
@@ -272,7 +272,7 @@ I put some photographs I take on the wall to make it look nice, such as the pict
 * Harry Potter and the Order of Phoenix
 * Harry Potter and the Half-Blood Prince
 * Harry Potter and the Deathly Hallows
-* Les Miserables
+* Les Misérables
 * The little Prince
 * A Brief History of Time
 * War and Peace
@@ -348,7 +348,7 @@ I put some photographs I take on the wall to make it look nice, such as the pict
 * Driving for a long time is very tiring.
 * It is not environmentally friendly.
 ### Card
-#### Advantanges
+#### Advantages
 * It is lovely and exquisite, making the person who received the card feel warm and happy.
 * It can enhance my relationship with friends and family members.
 * Sending cards is more sincere than emails.
@@ -358,7 +358,7 @@ I put some photographs I take on the wall to make it look nice, such as the pict
 * It represents my best wishes and love to my friends when I send cards to them.
 #### Disadvantages
 * Cards may get lost during the delivery.
-* Everyone can see the content of the card, which makes me feel exposed and embarassed.
+* Everyone can see the content of the card, which makes me feel exposed and embarrassed.
 * It wastes a lot of trees to make the cards.
 ### Cellphone
 #### Advantages
@@ -384,7 +384,7 @@ I put some photographs I take on the wall to make it look nice, such as the pict
 * annoying
 ### Collecting
 #### Advantages
-* The design of the terms are exquiste and detailed.
+* The design of the terms are exquisite and detailed.
 * It gives me a sense of satisfaction.
 * Some of the collection is valuable in the future and I can earn a huge profit.
 * It is my hobby and creates happy memory for me.
@@ -397,24 +397,24 @@ I put some photographs I take on the wall to make it look nice, such as the pict
 * Yellow: warm and bright
 * Orange: energetic
 * Gold: magnificent and classy
-* Red: passioante and stimulating
+* Red: passionate and stimulating
 * Pink: cute
 * Green: calm
 * Blue: calm, peaceful and sad
 * Purple: classic, noble and mysterious
 * Grey: depressing and boring
 * Black: cool, mysterious and mature
-* White: simple, pure amd innocent
+* White: simple, pure and innocent
 * cream
 * navy
-* offwhite
+* off-white
 * sapphire
 * scarlet
 * snow
-* skyblue
+* sky-blue
 * silver
 * smoky gray
-#### Adavantages
+#### Advantages
 * Different colors will give me different moods.
 * It makes my life more vivid and lively.
 * Colorful things are more attractive.
@@ -425,7 +425,7 @@ I put some photographs I take on the wall to make it look nice, such as the pict
 * There are various information for people to learn and study.
 * I study computer science, and a lot of experiments and homework are done on my computer.
 * Computer is powerful, I can use it to read papers.
-#### Disadvatages
+#### Disadvantages
 * Some of the information online is harmful for children.
 * It is very easy to get addicted.
 * There are too many advertisements online.
@@ -433,7 +433,7 @@ I put some photographs I take on the wall to make it look nice, such as the pict
 #### Advantages
 * I can finish my work faster.
 * I make fewer mistakes.
-* It can improve the quailty of my study and work.
+* It can improve the quality of my study and work.
 #### Disadvantages
 * I always ignore people when I am concentrated, and they may feel offended.
 * I always feel disturbed if my friends are around me, and it is difficult to concentrate.
@@ -459,7 +459,7 @@ I put some photographs I take on the wall to make it look nice, such as the pict
 * tango
 * ballet
 * classical dance
-* hippop
+* hip-pop
 * jazz
 * ball
 #### Advantages
@@ -467,7 +467,7 @@ I put some photographs I take on the wall to make it look nice, such as the pict
 * Dancing is a wonderful way to exercise and lose weight.
 * Dancing is a traditional way for people to celebrate, especially on some happy occasions.
 * Dancing can make people express their feelings and emotions.
-* Dancing can help porple release pressure.
+* Dancing can help people release pressure.
 * Dancing can male people become more confident of themselves.
 * Dancing can help people improve their ability of teamwork.
 * Some dance is based on the local culture, and it is part of a tradition.
@@ -520,10 +520,10 @@ I put some photographs I take on the wall to make it look nice, such as the pict
 * reliable
 * supportive
 * genuine
-* reponsible
+* responsible
 #### Advantages
 ##### Family
-* It is a great oppotunity to communicate with each other and improve relationship.
+* It is a great opportunity to communicate with each other and improve relationship.
 * I want to share happy moments with my family.
 * They can give me mature advice and help me make the right choice.
 * They will love me and support me unconditionally.
@@ -540,7 +540,7 @@ I put some photographs I take on the wall to make it look nice, such as the pict
 ##### By Myself
 * I do not have to follow somebody else's routine.
 * I do not need to compromise with anyone.
-* I can make my own arragements, and it can be changed as much as I want.
+* I can make my own arrangements, and it can be changed as much as I want.
 * I feel free to do things on my own, and I have no restrictions or limitations.
 * I can be more independent.
 * I will not be disturbed by anyone else.
@@ -548,7 +548,6 @@ I put some photographs I take on the wall to make it look nice, such as the pict
 ### Fashion & Clothes
 #### Vocabulary
 * Cartier
-* Bvlgari
 * Tiffany
 * Hermes
 * Prada
@@ -572,10 +571,10 @@ I put some photographs I take on the wall to make it look nice, such as the pict
 * down coat / jacket
 * British style
 * Korean tyle
-#### Adavantages
+#### Advantages
 ##### Fashion
 * It help me dress better and look more attractive.
-* Fashionais a culture that has a colorful history.
+* Fashion is a culture that has a colorful history.
 * Fashion helps promote the industries related with it.
 * Great fashion is designed with style and outstanding quality.
 ##### Clothes
@@ -583,7 +582,7 @@ I put some photographs I take on the wall to make it look nice, such as the pict
 * Clothes with good quality keep me warm and comfortable.
 * Clothes can represent my lifestyle and taste, and they are a part of me.
 * Choosing the right clothes for the right occasion can show my respect to others.
-#### Disadvatages
+#### Disadvantages
 ##### Fashion
 * I will always be a follower if I just stick to fashion magazines.
 * Some fashions are not my type and they make me look wired.
@@ -599,27 +598,334 @@ I put some photographs I take on the wall to make it look nice, such as the pict
 * lily: pure and simple
 * daisy: unspeakable love
 * rose: passionate love
-* jasmine: loyality and respect for beloved ones
+* jasmine: loyalty and respect for beloved ones
 * violet: eternal beauty which springs from the tears of Venus
 * lilac: flower from haven
 #### Advantages
-* Flowers 
+* Flowers are elegant, pretty and colorful. They are the natural beauty.
+* Flowers smell good, and the fragrance gives poeple a cheerful and happy mood.
+* Some flowers have positive meanings, and poeple use flowers to express their love to their beloved ones.
+* People wear flowers on special occasions, such as a ball or a wedding.
+* Some flower can be made into food, such as flower cake, which is very refreshing.
+* I can enjoy peaceful time of growing flowers.
+* The touch of the flower is very gentle and it gives me a sense of nature.
+#### Disadvantages
+* Flowers usually attracts a lot of bugs, which is very unsanitary.
+* I have to spend a lot of time on flowers if I want to take good care of them.
+* Some people are allergic to the pollen of flowers.
+* Bouquets can only keep for a few days.
+#### Indoor Flowers
+* They are a good decoration for the house.
+* They smell good, and they make the air in the room smell nice.
+#### Outdoor Flowers
+* It is a better environment for flowers to grow. Flowers can receive all the natural elements, such as the sunshine and rain.
+* Outdoor flowers are tough. They have the perseverance to stay strong and beautiful.
+* They are a part of nature.
 ### Food & Cooking
+#### Vocabulary
+* afternoon tea
+* midnight / late-night snack
+* spicy
+* bitter
+* greasy
+* food additives / preservatives
+#### Would you like to try some new food
+##### Advantages
+* It is something different for me to explore.
+* It offers me more options .
+* It can help me explore different kinds of culture through food.
+* Their exotic flavor surprises me.
+##### Disadvantages
+* It is worse than my old menu, and that would ruin my day.
+#### Do you think it is important for people to learn how to cook
+##### Yes
+* I am a foodie, which means I am very picky about food. Most of the time, only the dishes that are cooked by me can make me satisfied.
+* I can choose to cook the dishes that I like and make them into my own flavor.
+* Comparing to dining in the restaurants, cooking in a clean environment and choosing the freshest material to cook is what matters to me most.
+* It is money saving.
+* It will be very romantic if I cook for my beloved ones.
+* I will have a sense of accomplishment after I cook a wonderful dish for my girlfriend.
+* I can cook for my parents, because they are very tired after work.
+* It is a great way to show I care about someone.
+* I think it is easy to get fat / obese if I eat in the restaurants too often, because the food there contains a lot of calories.
+* Cooking is a great way to relax.
+* It is a necessary skill that can help me live an independent life.
+##### No
+* It is very time-consuming. Preparing for one dish could be a very long process.
+* I have to wash the plates and pans after cooking.
+* It is easy to get the dish either overcooked or undercooked.
+* Shopping for the ingredients is very troublesome.
+* Cooking can be dangerous.
 ### Game
+#### Vocabulary
+* Tetris
+* Super Mario
+* Battle City
+* Five-in-a-row
+* Monopoly / Zillionaire
+* hopscotch
+* hide-and-seek
+* poker / cards
+* origami
+* The Witcher
+* Minecraft
+#### Advantages
+* Some specially designed computer games can help children develop their intelligence.
+* They are attractive. For instance, in the Witcher, I can experience a different life as a Witcher.
+* They can improve the ability of working as a team, and make a person more corporative.
+* They can help people release pressure.
+#### Disadvantages
+* It is time-consuming.
+* It is addictive.
+* It is the cause for some health problems, such as obesity and near-sighted.
 ### Gift
-### Healthy LIfestyle
+#### Vocabulary
+* chocolate
+* mug
+* accessory
+* necklace
+* hair bend
+* with sentiment value
+* unique
+* hand-made
+* practical
+#### Advantages
+* Gifts make people feel thrilled and excited.
+* Gifts will make people feel a sense of importance when they receive a gift.
+* Gifts are a great reminder for the ones who receive them.
+* It is a good way to improve the friendship.
+* It is a good way to show people's feelings towards someone in a more indirect way.
+#### Disadvantages
+* The care / attitude and intention is more important than the gift itself.
+* Some gifts do not meet the need of my friends.
+* It could be a waste of money and some of them are expensive.
 ### History
+#### Do you like history
+##### Yes
+* People can learn a lot of things from the past.
+* History is very mysterious, and every event is the product of many small factors.
+* My teacher teaches history in a very funny way.
+##### No
+* It is too far way and not suitable for the modern society.
+* It can be boring, dull, monotonous.
+#### Do you like watch TV programs about history
+##### Yes
+* I can learn history from it, and it is both fun and vivid.
+* Some TV shows invite some famous scholars to the program and they will offer some new ans unique perspective about one historical event.
+##### No
+* Some TV programs adapt / twist the original stories in unexpected ways, so they could be misleading and untrue.
+* Some stories are fabricated.
 ### Holiday & Festival
+#### Advantages
+* I can have days off and relax myself.
+* I can have time to hang out with my friends.
+* I can have more time to spend with my families.
+#### Disadvantages
+* It is a waste of money and time.
+* It is very inconvenient because a lot of shops are closed.
 ### Housework
+#### Vocabulary
+* Tidying up the room
+* doing the laundry
+* baby-sitting
+#### Advantages
+* Housework can keep people's living environment clean and tidy.
+* It can help children develop a sense of self-discipline.
+* It is a great way to teach kids to take responsibility in their lives.
+* Doing the housework can show my love for parents.
+* It is a good way to exercise and get my room cleaned at the same time.
+* I will have a sense of accomplishment.
+* I like to put things in the right place and organize them well so that my room will not look messy.
+#### Disadvantages
+* It is dirty, time-consuming and tiring.
 ### Internet
+#### Vocabulary
+* search for some inspiration and material
+* watch TV episodes
+#### Advantages
+* There are a lot of online courses that I can watch and learn from the Internet.
+#### Disadvantages
+* It may contain some inappropriate information.
+* People may get frauded and lose a lot of money.
+* Some information is misleading. 
 ### Language
+#### French
+* It is said to be the most romantic language in the world. Besides, it has a lot in common with English.
+#### Advantages
+* To have a second language is to possess a second soul.
+* Learning language is not only about learning vocabulary and grammar, but also about another culture.
+* It is a good way to communicate with foreign friends without trouble.
+* It is a very useful skill in the competitive job market.
+#### Disadvantages
+* I might get confused if I learn too many different languages and some words are just on the tip of my tongue.
+* It is difficult to learn a new language and the language system can be completely different. I have to learn the grammar, the vocabulary and the pronunciation.
+* It would be difficult to practice without native speakers / a foreign environment.
+* Some pronunciation features are difficult to imitate, especially French.
 ### Leisure Time & Weekends & Evening
+#### Vocabulary
+* have a sound sleep
+#### Advantage
+* I can hang out with my family and friends.
+* I can do things that I do not have the time to do on weekdays / meaningful things, such as reading.
+* I can refresh myself and restore energy.
+#### Disadvantages
+* It will make people lazy and sloppy if they have too much leisure.
+* A lot of people have to work overtime on weekends and it is pretty depressing.
+* It will be really hard for people to adapt to the working environment after the period of leisure time, and post-holiday syndrome is difficult to overcome / conquer / recover from.
+* People will procrastinate after the leisure time, because they lose the will to work hard.
 ### Letters & Writing & Emails & Cards
+#### Letters
+##### Advantages
+* It is more formal, because people will use letters on important occasions.
+* It is traditional, representing culture and old style.
+* There is an old saying in China, saying letters are alive. Handwriting letters are more valuable.
+##### Disadvantages
+* It is slow, expensive, not environmentally friendly and not reliable.
+#### Emails
+##### Advantages
+* It is extremely fast.
+* It is free.
+* It is efficient because I can send one email to a group of people at the same time.
+* It is environmentally friendly.
+##### Disadvantages
+* Hackers may ear drop my email. It is not safe.
+* It is informal.
+* I always receive a lot of advertisements via email, which is pretty bothering.
 ### Library
+#### Advantages
+* There is a good atmosphere of studying.
+* It is quiet and clean.
+* The facilities are advanced.
+* I will have more choices to pick the books that I am interested in.
+* I can save money from buying books.
+#### Disadvantages
+* Maintaining the library is a huge cost for the school.
+* Internet also offers information on the topics.
 ### Magazine
+#### Vocabulary
+* National Geographic
+* Time
+* Reader
+* New Weekly
+#### Advantages
+* They provide a lot of knowledge that I have never encountered before.
+* They can improve my taste and broaden my horizons.
+* They can relieve the pressure and help me relax.
+#### Disadvantages
+* Reading magazines is time-consuming and tiring.
+* It can harm your eyes if you read too much.
+* They may contain inappropriate information.
+* They are not environmentally friendly and convenient.
 ### Maps
+#### Advantages
+* A map can help people find the right direction that they are looking for.
+* There are some recommendations about the local tourist attractions on the maps, so travellers can find the places that they are interested in.
+* Some maps are very beautiful and people like to keep them as souvenirs.
+* Electronic maps are easy and convenient to use.
+#### Disadvantages
+* Paper maps are not environmentally friendly.
+* Paper maps are not convenient to carry around and check.
+* The electronic maps rely heavily on Internet connection and electricity.
 ### Movie
+#### Vocabulary
+* documentary
+* literary film
+* musical
+* comedy
+* tragedy
+* horror movie
+* thriller
+* detective film
+* ethical film
+* cartoon
+* romantic film
+* silent film
+* cartoon
+* talkie
+* dubbed film
+* trailer
+* producer
+* scriptwriter
+* assistant director
+* film director
+* cameraman
+* art director
+* property manager
+* makeup artist
+* film cutter
+* lighting engineer
+* recording director
+* supporting role
+* stand-in 
+* extra
+* original sound track
+* theme song
+* interlude
+* premiere
+* title
+* dialogue line
+* subtitling
+* dubbing
+* close-up
+* frame
+* background
+* spotlight
+* exterior
+* lighting
+* special effect
+* sound effect
+* A Chinese Odyssey
+* King of Comedy
+* Infernal Affairs
+* Secret
+* The Godfather
+* Harry Potter
+* Star Wars
+* Schindler's list
+* The Lord of the Rings
+* Spirited Away
+* Avatar
+* Leon
+* Inception
+* Tenet
+#### Advantages
+* People can gain wisdom and knowledge from a good movie, and it could be a lifelong benefit.
+* Watching foreign movies can help people improve their second language abilities.
+* Movies can help people relax and relieve pressure.
+#### Disadvantages
+* Some movie tickets are expensive.
+* Some movies are quite shallow.
+* Some movies are full of violence and sex scenes.
 ### Museum
+#### Vocabulary
+* national museum
+* art museum
+* military museum
+* history museum
+* nature museum 
+* movie museum
+* silk museum
+* geography museum
+* music museum
+* architecture museum
+* science and technology museum
+* British Museum
+* Louvre Museum
+* Metropolitan Museum of Art
+* Winter Palace
+* The Palace Museum
+#### Advantages
+* It is a time machine to take me back in time. Maybe the people in the past was appreciating the same thing just as I am doing right now. It feels amazing.
+* Museums are informative and resourceful. I can learn a lot of things there.
+* They can help me gain knowledge in a vivid way.
+* The precious treasure is safe in the museums.
+* It is a perfect place to cultivate a taste in art.
+* I can experience a lot of things in an interactive way.
+#### Disadvantages
+* The masterpieces in museums could be damaged by the flashlights from the tourists if the museums do not take certain precautions.
+* It costs a lot to preserve the treasure.
+* Some museums are boring because they are full of exhibitions / they never change their exhibits.
+* It is time-consuming.
 ### Music
 ### Name
 ### Neighbor
@@ -638,7 +944,6 @@ I put some photographs I take on the wall to make it look nice, such as the pict
 ### School 
 ### Shoes
 ### Shopping
-### Singing
 ### Sleeping
 ### Sports & Outdoor Activities
 ### Street Market
