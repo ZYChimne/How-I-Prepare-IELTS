@@ -38,3 +38,5 @@ Yet to take the exarm, good luck to me!
 ### Speaking
 * IELTS Speaking Topics 2021.5-9
 * CNN Student News
+## Note
+* I find the library in the university contains a lot of books that introduce surprisingly useful strategies and techniques to IELTS, so make good use of them.
