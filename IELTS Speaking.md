@@ -138,8 +138,8 @@ Since I have been living there for such a long time, I think I have got used to 
 It is modern style. Everything is simple and fashionable.
 #### What have you done to your own room to make it look nice?
 #### Have you decorated your bedroom?
-I put some photographs I take on the wall to make it look nice, such as the pictures of the city skycrapers.
-#### In the future, what soft of home (flat, house, etc) would you like to live in?
+I put some photographs I take on the wall to make it look nice, such as the pictures of the city skyscrapers.
+#### In the future, what soft of home (flat, house, ...) would you like to live in?
 ## Optional Topics
 ### Advertisement
 #### vocabulary
@@ -167,9 +167,492 @@ I put some photographs I take on the wall to make it look nice, such as the pict
 * It is too abstract for some people to understand and enjoy.
 * A lot of artists are no longer paying attention to art itself but the commercial benefits.
 * Art is expensive, and not everyone can have access to it.
+### Bag
+#### Vocabulary
+* shoulder bag
+* messenger bag
+* dinner bag
+* shopping bag
+* backpack
+* book bag
+* handbag
+* brief case
+* purse
+* leather
+* fur
+* feather
+* canvas
+#### Advantages
+* It can free my hands and give me some room to put my stuff in.
+* I do not need to worry about leaving important things behind.
+* It can protect import things from thieves.
+#### Disadvantages
+* It is heavy to carry.
+* It is too hot to use in summer. I will have a sweaty back.
+* It is inconvenient if the bus is overcrowded.
+### Bikes
+#### Advantages
+* It is environmentally-friendly.
+* Riding a bike makes people feel free and liberal.
+* It is easy and convenient to go to all kinds of places on a bike, and I do not have to worry about parking lot.
+* It is a good way for daily exercise.
+#### Disadvantages
+* It is slower than the car.
+* It is easy to get stolen and unlikely to be found.
+* It is tiring.
+* It is quite dangerous regarding the road conditions.
+### Bird
+#### Vocabulary
+* swallow
+* dove / pigeon
+* magpie
+* parrot
+* swan
+* mockingbird
+* owl
+* sparrow
+* crow
+#### Advantages
+* They have beautiful feathers and sound, which makes me feel relaxed and peaceful.
+* Most of the birds have good meanings and symbolize and good parts of people's lives.
+* It is an important part of the eco-biology system. Birds can eat insects and pests and protect the forests.
+* Some birds are important parts of the local culture and legend.
+* Some people believe that birds can bring them good luck and fortune.
+#### Disadvantages
+* They could be annoying in the morning.
+* Some birds eat the crops and damage the plants.
+* Birds can help spread a lot of transmitted diseases.
+### Birthday
+#### Advantages
+* It provides a chance for families and friends to get together and celebrate. It is a happy occasion.
+* I can get a lot of birthday presents and blessings from my friends and family.
+* I can have a great meal or a birthday party, regardless of whether it is mine or other people's birthdays.
+* It means that I am getting one year older and becoming more mature.
+* I can eat the birthday cake, which is very tasty.
+* Nobody will hold anything against me on my birthday, and I will be the king of the day. It is surely nice to be in charge.
+#### Disadvantages
+* The birthday party cost a lot of money.
+* If I have a birthday party at home, it will be quite a mess, and I will have to tidy things up afterwards.
+### Boat
+#### Vocabulary
+* cruise
+* ferry
+#### Advantages
+* It is very relaxing when I am on a boat, feeling the breezing blowing through my hair.
+* It is peaceful and quite on a boat when I am all by myself.
+* I can do a lot of things on the boat, such as fishing and listening to music.
+* I can enjoy the beautiful lake / sea views / water scenes when I am on a boat.
+* I enjoy the liberty to wheel my boat to anywhere I want to, and I feel so free.
+#### Disadvantages
+* It is very easy to get tired when rowing.
+* Some rivers and lakes are heavily polluted.
+### Book
+#### Vocabulary
+* science fiction
+* fairy tale
+* horror
+* legend
+* myth
+* peom
+* anime
+* love stories
+* fra,a
+* reference books
+* philosophy
+* social commentary
+* social science
+* politics
+* economic
+* Love in a Fallen City
+* The Hunger games
+* Harry Potter and the Philosopher's Stone
+* Harry Potter and the Chamber of Secrets
+* Harry Potter and the Prisoner of Azkaban
+* Harry Potter and the Goblet of Fire
+* Harry Potter and the Order of Phoenix
+* Harry Potter and the Half-Blood Prince
+* Harry Potter and the Deathly Hallows
+* Les Miserables
+* The little Prince
+* A Brief History of Time
+* War and Peace
+* One Hundred Years of Solitude
+* The Notebook
+* Norwegian Wood
+#### Advantages
+* It provides a lot of knowledge that I have never encountered before.
+* It will improve my taste.
+* It can help me relieve pressure and relax.
+* It can cultivate my imagination and creativity.
+* It can broaden my horizon.
+* It can take me into a different world.
+* Some books can help people pay more attention to special groups of people or particular social phenomena.
+#### Disadvantages
+* Reading takes too much time and energy, and I won't have enough time to do other things.
+* It does not help me in social life.
+* It will harm my eye if I read too much.
+* It is not environmentally-friendly.
+* It is not very convenient to carry books around because they are so heavy.
 ### Buildings
+#### Vocabulary
+* bungalow
+* quadrangle dwellings
+* palace
+* temple
+* tower
+* studio apartment
+* flat
+* mansion
+* villa
+* skyscraper
 #### Advantages
 ##### Traditional Buildings
+* They are symbols of the traditional culture, representing the art tastes and the intelligence of the country.
+* Old buildings can help people preserve precious memories, especially when they life there for a long time.
+* Many old building have historic meanings,, maybe something important happened there.
+##### Modern Buildings
+* Modern buildings have advanced facilities, such as elevators / lifts and fire alarms.
+* Modern buildings are usually very clean and nice, and the services of the community are very good.
+* Some modern buildings even have fancy shapes, and they look like something coming from the future.
+* The water and electricity supply is very stable.
+#### Disadvantages
+##### Traditional Buildings
+* They are not as efficient as modern buildings, and their capacities are much smaller than modern ones.
+* The facilities in old buildings always needs repairing, which is troublesome.
+* It is not safe to live in the old buildings, some of them have been build for hundreds of years.
+##### Modern Buildings
+* They have no unique character.
+* Modern buildings isolate neighbors from one another, and people have much fewer chances to chat with each other.
+* Modern buildings use a lot of grass. The light pollution is very serious.
+### Car
+#### Vocabulary
+* Bugatti
+* Lamborghini
+* Ferrari
+* Aston Martin
+* Bentley
+* Porsche
+* Rolls-Royce
+* BMW
+* Audi
+* Mercedes-Benz
+* Ford
+#### Advantages
+* It is convenient and fast to drive a car, because people can go to a lot of different places without much trouble.
+* It is safer than travel by bicycle.
+* I feel free because I can go anywhere with a car.
+* It is like an adventure to travel to new places.
+* The view along the road is really enjoyable.
+#### Disadvantages
+* The safety of cars is always a major concern of people. A lot of accidents happen every year.
+* Driving for a long time is very tiring.
+* It is not environmentally friendly.
+### Card
+#### Advantanges
+* It is lovely and exquisite, making the person who received the card feel warm and happy.
+* It can enhance my relationship with friends and family members.
+* Sending cards is more sincere than emails.
+* They can remind me of my friends.
+* It is a great way to keep in touch with friends.
+* It is a way to tell people that they miss each other.
+* It represents my best wishes and love to my friends when I send cards to them.
+#### Disadvantages
+* Cards may get lost during the delivery.
+* Everyone can see the content of the card, which makes me feel exposed and embarassed.
+* It wastes a lot of trees to make the cards.
+### Cellphone
+#### Advantages
+* I can play amazing games on my cellphone.
+* It can help people to get in touch with others quite easily.
+* I can listen to music or watch movies when I am on the train or plane.
+#### Disadvantages
+* It can be a huge distraction for poeple when they are at school or at work.
+* It can be annoying if other people talk loudly on the phone in public places.
+* The phone gives a lot of personal information to the large companies and I feel exposed.
+### Children
+#### Vocabulary
+* sweet
+* quiet
+* earnest
+* talented
+* innocent
+* energetic
+* lively
+* naughty
+* arrogant
+* selfish
+* annoying
+### Collecting
+#### Advantages
+* The design of the terms are exquiste and detailed.
+* It gives me a sense of satisfaction.
+* Some of the collection is valuable in the future and I can earn a huge profit.
+* It is my hobby and creates happy memory for me.
+#### Disadvantages
+* It costs a lot of money.
+* It takes up too much of time.
+* People's interests change from time to time, so the collections may turn intoa waste when I am not interested in it anymore.
+### Color
+#### Vocabulary
+* Yellow: warm and bright
+* Orange: energetic
+* Gold: magnificent and classy
+* Red: passioante and stimulating
+* Pink: cute
+* Green: calm
+* Blue: calm, peaceful and sad
+* Purple: classic, noble and mysterious
+* Grey: depressing and boring
+* Black: cool, mysterious and mature
+* White: simple, pure amd innocent
+* cream
+* navy
+* offwhite
+* sapphire
+* scarlet
+* snow
+* skyblue
+* silver
+* smoky gray
+#### Adavantages
+* Different colors will give me different moods.
+* It makes my life more vivid and lively.
+* Colorful things are more attractive.
+#### Disadvantages
+* I feel dazzled when there are too many colors.
+### Computer
+#### Advantages
+* There are various information for people to learn and study.
+* I study computer science, and a lot of experiments and homework are done on my computer.
+* Computer is powerful, I can use it to read papers.
+#### Disadvatages
+* Some of the information online is harmful for children.
+* It is very easy to get addicted.
+* There are too many advertisements online.
+### Concentration
+#### Advantages
+* I can finish my work faster.
+* I make fewer mistakes.
+* It can improve the quailty of my study and work.
+#### Disadvantages
+* I always ignore people when I am concentrated, and they may feel offended.
+* I always feel disturbed if my friends are around me, and it is difficult to concentrate.
+* I feel tired and exhausted after concentrated for a long time.
+### Concert
+#### Vocabulary
+* opera
+* symphony
+* Vienna New Year Concert
+#### Advantages
+* It is a great way to get people relaxed.
+* It is a very classical and elegant activity for people to enjoy the art of music.
+* Music is fancy and attractive.
+* Concerts always touch me in a unique way.
+#### Disadvantages
+* Not everyone has the chance to get to know it.
+* The price of the concert is very expensive.
+* Some of the shows are old-fashioned.
+### Dancing
+#### Vocabulary
+* folk dancing
+* waltz
+* tango
+* ballet
+* classical dance
+* hippop
+* jazz
+* ball
+#### Advantages
+* Dancing can help me keep my figure and make me more flexible.
+* Dancing is a wonderful way to exercise and lose weight.
+* Dancing is a traditional way for people to celebrate, especially on some happy occasions.
+* Dancing can make people express their feelings and emotions.
+* Dancing can help porple release pressure.
+* Dancing can male people become more confident of themselves.
+* Dancing can help people improve their ability of teamwork.
+* Some dance is based on the local culture, and it is part of a tradition.
+#### Disadvantages
+* Dancing is very difficult for people who are clumsy / not flexible/
+* Practice dancing in the wrong way may get hurt.
+* Dancing class is very expensive and it takes a lot of time to practice.
+* Dancing consumes too much energy and makes people feel tired and exhausted.
+* Dancing requires talent to learn.
+### Dictionary
+#### Advantages
+* It provides a really detailed explanation about the vocabulary that we want to look up.
+* Some dictionaries offer vivid examples of the words and phrases.
+* The information offered by the dictionary is formal and reliable.
+* Some electronic dictionaries are light and portable.
+#### Disadvantages
+* It is out of fashion.
+* It takes me a long time to look up on word in the paper-made dictionaries because I have to go through the alphabet.
+* Paper-made dictionaries are big and heavy, and it is inconvenient to carry them around.
+* The Internet can help solve the problem, so the dictionary is not a must.
+### Drawing & Painting
+#### The Difference Between Drawing and Painting
+* Drawing is dry: sketch, outline, ...
+* Painting is wet: oil painting, Chinese traditional water fine painting, ...
+#### Advantages
+* It is a great hobby that helps cultivate my intelligence and creativity.
+* It gives me a taste and sense of art.
+* Painting can help me calm down and have a peaceful mind.
+* It can help people express their feelings, through different colors to show their joy and sadness.
+* Painting gives me a sense of accomplishment.
+* It helps me become a patient person.
+* It helps develop children's personalities.
+#### Disadvantages
+* It is very expensive and not everyone can afford that.
+* It takes up too much of time.
+* It requires talent.
+* Some parents force their children to learn painting.
+### Family & Friends & Relatives & Parents
+#### Vocabulary 
+* nephew
+* niece
+* common interests
+* similar tastes
+* having each other's back
+* intelligent
+* assertive
+* optimistic
+* knowledgeable
+* amiable
+* reliable
+* supportive
+* genuine
+* reponsible
+#### Advantages
+##### Family
+* It is a great oppotunity to communicate with each other and improve relationship.
+* I want to share happy moments with my family.
+* They can give me mature advice and help me make the right choice.
+* They will love me and support me unconditionally.
+* It is less embarrassing when I do something silly / stupid in front of my family.
+* My family members always help me when I am in trouble.
+* I feel relaxed when I am with my families, because I do not have to pretend to be someone who I am not.
+* My parents will feel happy if I spend more time with them.
+##### Friends
+* Unlike family members, friends will not blame me for small things and they understand me.
+* We have the same topics and interests with each other to share.
+* I feel free when I am with my friends.
+* Our friendship will be enhanced.
+* Most of my friends are around the same age, so there is no generation gap between each other.
+##### By Myself
+* I do not have to follow somebody else's routine.
+* I do not need to compromise with anyone.
+* I can make my own arragements, and it can be changed as much as I want.
+* I feel free to do things on my own, and I have no restrictions or limitations.
+* I can be more independent.
+* I will not be disturbed by anyone else.
+* It is more efficient when I am doing things alone.
+### Fashion & Clothes
+#### Vocabulary
+* Cartier
+* Bvlgari
+* Tiffany
+* Hermes
+* Prada
+* Channel
+* Gucci
+* Louis Vuitton
+* Dior
+* Valentino
+* Givenchy
+* Armani
+* Burberry
+* Coach
+* casual clothes
+* semi-formal clothes
+* sporty clothes
+* suits with a tie
+* dress with high heels
+* vintage clothes
+* pajamas
+* home wear
+* down coat / jacket
+* British style
+* Korean tyle
+#### Adavantages
+##### Fashion
+* It help me dress better and look more attractive.
+* Fashionais a culture that has a colorful history.
+* Fashion helps promote the industries related with it.
+* Great fashion is designed with style and outstanding quality.
+##### Clothes
+* It makes me look more attractive / confident and leave a better impression on others.
+* Clothes with good quality keep me warm and comfortable.
+* Clothes can represent my lifestyle and taste, and they are a part of me.
+* Choosing the right clothes for the right occasion can show my respect to others.
+#### Disadvatages
+##### Fashion
+* I will always be a follower if I just stick to fashion magazines.
+* Some fashions are not my type and they make me look wired.
+* Fashion is far away from people's daily life. It is the product of the rich and vanity.
+* It changes from time to time and it is hard and expensive to follow the trend.
+* Some people just take fashion as a way to show off, and they do not really get it.
+##### Clothes
+* Some poeple judge me by the clothes I wear.
+* Shopping for clothes is troublesome and time-consuming.
+* Some people do not care about clothes.
+### Flowers
+#### Vocabulary
+* lily: pure and simple
+* daisy: unspeakable love
+* rose: passionate love
+* jasmine: loyality and respect for beloved ones
+* violet: eternal beauty which springs from the tears of Venus
+* lilac: flower from haven
+#### Advantages
+* Flowers 
+### Food & Cooking
+### Game
+### Gift
+### Healthy LIfestyle
+### History
+### Holiday & Festival
+### Housework
+### Internet
+### Language
+### Leisure Time & Weekends & Evening
+### Letters & Writing & Emails & Cards
+### Library
+### Magazine
+### Maps
+### Movie
+### Museum
+### Music
+### Name
+### Neighbor
+### News
+### Newspaper
+### Noise
+### Park & Garden
+### Party
+### Patience
+### Photography
+### Plan & Goal
+### Politeness
+### Private Transportation
+### Punctuality & Being Late
+### Rain
+### School 
+### Shoes
+### Shopping
+### Singing
+### Sleeping
+### Sports & Outdoor Activities
+### Street Market
+### Swimming
+### Time Management & Routine
+### Toys
+### Transportation
+### Travel
+### Trees
+### TV
+### Visitor
+### Climate & Season & Weather
+### Wedding
+### Your Country
 ## Common Colloquial Words and Phrases
 * stuff
 * pretty
@@ -226,3 +709,142 @@ I put some photographs I take on the wall to make it look nice, such as the pict
 * I rarely ...
 * I hardly ever ...
 * I never ...
+* the pace of life
+* the cost of living
+* a waste of
+* standard of living
+* economic growth
+* consumer culture
+* designer clothes
+* a tight budget
+* bad spending habits
+* a wide variety of courses
+* life skills
+* behavior problems
+* useful members of society
+* a successful career
+* family members
+* community members
+* team members
+* members of society
+* common goal / interests
+* family ties / bonds
+* nuclear / extended family
+* generation gap
+* elderly people
+* population ageing
+* equal opportunities
+* the gap between the rich and the poor
+* low-income families
+* fierce competition
+* social networking website
+* online forum
+* a useful tool
+* online community
+* the virtual world
+* special effects
+* sound advice
+* a thoughtful gift
+* a friendly and relaxing atmosphere
+* natural beauty
+* outdoor activities
+* a healthy lifestyle
+* an active lifestyle
+* a good form of exercise
+* sports facilities
+* fond memories
+* casual clothes
+* a sense of achievement
+* a sense of belonging
+* a sense of responsibility
+* the greenhouse effect
+* global warming
+* extreme weather
+* electric cars
+* clean energy
+* an eco-friendly lifestyle
+* a long-term solution
+* sustainable development
+* natural resources
+* under threat
+* endangered animals
+* natural reserves
+* animal rights
+* work of art
+* art gallery
+* hand-made products
+* live performance
+* cultural heritage
+* cultural diversity
+* a symbol of wealth / good health / long life / romantic love / happiness / good fortune / peace
+* tourist / cultural / historical natural attractions
+* rush hour
+* traffic volume
+* car / exhaust fumes
+* public transport
+* transport facilities
+* the hustle and bustle
+* high-rise building
+* fresh air
+* air pollution
+* thick smog
+* health problems
+* health care
+* a healthy diet
+* vitamin C and fiber
+* organic food
+* gene-modified food
+* an indispensable part of
+* current events
+* the latest news
+* in-depth reports
+* a flexible schedule
+* spectacular view
+* sparkling stars
+* crystal clear water
+* rolling hills / waves
+* on a regular basis
+* from time to time
+* occasionally
+* all year round
+* gorgeous
+* reliable
+* sociable
+* reliable
+* four distinct seasons
+* a rewarding experience
+* a memorable experience
+* time-consuming
+* extracurricular activities
+* rush hour
+* animated films
+* special effects
+* thought-provoking
+* stimulate our imagination
+* browse through
+* read a book from cover to cover
+* release an album
+* an instant hit
+* blockbuster
+* rippling water
+## Coherence (oral)
+* because
+* so
+* although
+* as long as
+* but
+* besides
+* also
+* too
+* as well
+* on the other hand
+* like
+* such as
+* for example
+* rather than
+* instead of
+* tend to be
+* think of ... as ...
+* be supposed to 
+* used to 
+* find it hard to
