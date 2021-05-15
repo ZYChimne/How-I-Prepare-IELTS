@@ -264,7 +264,6 @@ I put some photographs I take on the wall to make it look nice, such as the pict
 * politics
 * economic
 * Love in a Fallen City
-* The Hunger games
 * Harry Potter and the Philosopher's Stone
 * Harry Potter and the Chamber of Secrets
 * Harry Potter and the Prisoner of Azkaban
@@ -274,11 +273,8 @@ I put some photographs I take on the wall to make it look nice, such as the pict
 * Harry Potter and the Deathly Hallows
 * Les Misérables
 * The little Prince
-* A Brief History of Time
-* War and Peace
 * One Hundred Years of Solitude
 * The Notebook
-* Norwegian Wood
 #### Advantages
 * It provides a lot of knowledge that I have never encountered before.
 * It will improve my taste.
@@ -927,37 +923,347 @@ I put some photographs I take on the wall to make it look nice, such as the pict
 * Some museums are boring because they are full of exhibitions / they never change their exhibits.
 * It is time-consuming.
 ### Music
+#### Vocabulary
+* pop
+* country
+* rap
+* light music
+* blues
+* opera
+* classical music
+* symphony
+* lullaby
+* chant
+* guitar
+* ukulele
+* voiliin
+* cello
+* pinao
+* bass
+* drum
+* organ
+* Grammy Award
+* Jay Chou
+* Eason Chen
+* Taylor Swift
+* The Eagles
+* Adele
+* Avril Lavigne
+* Coldplay
+#### Advantages
+* Music can get people from different regions to together and share their feelings
+* Music is a must for a party or social event.
+* It is a great method for childrent to develop their intelligence.
+* It is a great way to express myself.
+* Some music is very comforting, which can give people strength and inspire them spiritually.
+#### Disadvantages
+* Learning music / Going to concert is very expensive.
+* It takes up too much of my time.
+* It is a huge distraction when I am trying to concentrate.
+* Listening to loud music / for a long time is harmful for my hearing.
+* Some lyrics are inappropriate for children.
 ### Name
+#### Advantages
+* It was the first gift from my parents, and it brings me good luck and peace.
+* Good names can leave a good first impression on other people.
+* Names give people a feeling about who I am even before they meet me.
+* Names are the carriers of parents' expectations.
+#### Disadvantages
+* Its pronunciation is a little complex.
+* Some of the names are very difficult to memorize, and it wuold be so embarrasing if I forget somebody's name.
 ### Neighbor
+#### Advantages
+* Neighbors can help me when I am in trouble.
+* They can make people feel less lonely.
+* We can work together to improve the environment of the community.
+#### Disadvantages
+* Some neighbors are disturbing and annoying.
+* Some neighbors are very nosy.
+* Some neighbors are very cold.
+* Some neighbors throw rubbish everywhere.
+* Some neighbors never considerate how others feel.
 ### News
+#### Advantages
+* It is the best way to spread information.
+* It is important to know what is going on in our city.
+* I can learn a lot of thing by watching news.
+#### Disadvantages
+* Some news are misleading and biased.
+* Some new exerts negative consequences to the public, which leads to horrible consequencees.
+* Some news are boring.
 ### Newspaper
+#### Vocabulary
+* Southern Weekly
+* People's Daily
+* China Daily
+* The New York Times
+* The Times
+* The Guardian
+#### Advantages
+* Newspapers are more reliable than Internet news.
+* It is better for eyes than reading from a screen.
+* It is good way to collect information and learn about current affairs.
+#### Disadvantages
+* It is not as efficient as Internet news.
+* It is not environmental-friendly.
+* People may prefer different types of news and they can not reflect people's needs.
+* Some comments are misleading and subjective.
 ### Noise
+#### Advantages
+* Some sounds are peaceful and relaxing, and they can make people calm down.
+* Some sounds remind me of my happy memories.
+* Some sounds make me feel closer to nature.
+### Disadvantages
+* Some sounds are so loud that they make people feel annoying and anxious.
+* Some sounds are bad for my ears.
+* Some sounds disturb me from studying at the moment.
 ### Park & Garden
+#### Advantages
+* Even in ancient times, people needed to get close to nature. This is the desire in our blood.
+* There are a lot of events in the park.
+* They provide more space for the public to relax during holidays.
+* They improve the environment of the city, bring the nature and people together.
+* They are an important part of the urban landscape and planning.
+#### Disadvantages
+* They are a waste of government funding.
+* Some parks are dangerous at night.
+* It is crowded on weekends.
 ### Party
+#### Advantages
+* It provides a chance for family and friends to get together and have some fun.
+* It is a great way to relax.
+* I can meet different people in the party.
+* It is a great way to celebrate some important things.
+#### Disadvantages
+* It is noisy and disturbing.
+* It is tiring.
+* It takes a lot of time to prepare and clean up the mess.
 ### Patience
+#### Advantages
+* It is a virtue and it can help people do things better.
+* People with patience are less likely to get angry.
+* Patient people are more likely to be successful because they can wait for the right time and chance.
+#### Disdvantages
+* It is hard to release the mental pressure.
+* Others may consider patient people as pushovers.
+* There are some urgent situations requiring fast reaction.
 ### Photography
-### Plan & Goal
+#### Vocabulary
+* aperture
+* shutter
+* tripod
+* flashlight
+#### Advantages
+* It can help me preserve beautiful memories.
+* It is a great way to show things to other people.
+* It is an art that everybody can have a try.
+* Some old photos can help me look back at the life that I have been through.
+#### Disadvantages
+* It may interrupt the local people at the sites.
+* It costs a lot of money to buy advanced equipment.
+* I look weird and stupid in the photos.
 ### Politeness
+#### Advantages
+* It is very important for people to create a nice and warm environment for their family and friends.
+* Politeness is a very important part in our culture.
+* People like to make friends with polite people.
+* Politeness in the society reflects the moral standard of the civilization.
+#### Disadvantages
+* Some people come from a rude background and it is difficult to reason with them.
 ### Private Transportation
-### Punctuality & Being Late
+#### Advantages
+* It is convinent and fast.
+* It can go wherever I want.
+#### Disadvantages
+* It is expensive and not environmentally friendly.
+* It is the main reason for traffic congestion.
 ### Rain
-### School 
+#### Advantages
+* Rainfall can help the corps to grow better next year, and the farmers will have a harvest.
+* Raining makes the air humid and fresh.
+* I fall asleep quickly and have a sweet dream on rainy days.
+* It can bring down the temperature in summer.
+#### Disadvantages
+* It would be a disaster if I forget to brinig my unbrella.
+* The plants and crops will not grow well if it rains too much.
+* I have to stay at home if it rains heavliy outside.
 ### Shoes
+#### Vocabulary
+* racing boots
+* leather boots
+* casual shoes
+* sneakers
+* sandals
 ### Shopping
-### Sleeping
+#### Advantages
+* Shopping can help me release the pressure.
+#### Disadvantages
+* It costs a lot of money.
+* Sometimes I may buy some stuff I do not need.
+* It is time-consuming.
+#### Online
+##### Advantages
+* It is very convenient.
+* Most of the information is reliable.
+* The goods are cheaper.
+* It cost me less time.
+* I can buy goods abroad.
+* There are a lot of choices online.
+##### Disadvantages
+* Some of them are of low quality.
+* The pictures of the items can be misleading.
+* I may get the wrong size of the product and it is inconvenient to change them.
+* I can not try them out.
+* The delivery of some shops are slow.
 ### Sports & Outdoor Activities
+#### Advantages
+* It benefits my health and helps me in a better mood.
+* It can help me keep fit.
+* The air is fresh outside.
+* It enhances the friendship between me and my friends.
+* It is a good way to relax.
+* It adds color to my life.
+#### Disadvantages
+* One may get hurt during sports.
+* It depends on the weather hugely.
+* It is time-consuming.
 ### Street Market
+#### Advantages
+* It is convenient for people in the community. They can get daily goods there.
+* Street markets are more related to real life. People can understand the local people and their life by going to the street markets there.
+* The goods there are cheap and fresh.
+#### Disadvantages
+* The venders leave a lot of rubbish there.
+* The food there is somtimes unsanitary.
+* Street markets may block the traffic.
 ### Swimming
+#### Vocabulary
+* back stroke
+* butterfly stroke
+* breast stroke
+* freestyle swimming
+* medley swimming
+#### Advantages
+* It can help me cool down in the hot weather.
+* It is a safe way to exercise.
+#### Disdvantages
+* It is more expensive than jogging.
+* It is less convenient.
+* You might catch a cold if swimming in winter.
 ### Time Management & Routine
+#### Advantages
+* Reasonable time management offers balance between study and the leisure time in people' life.
+* I can do things more efficiently during the same hours and avoid doing something worthless.
+* I like to have a regular time table. It will help me to be on time and punctual.
+#### Disadvantages
+* Unreasonable time management gives me a lot of pressure, because I can not keep up with it.
+* Time management is mechanical, and it will become a restriction for me.
+* Regular time management reduces my ability to adapt to different situations, especially when there is an emergency.
 ### Toys
+#### Vocabulary
+* jigsaw
+* rubik cube
+* tangram
+* toy bricks
+* dominoes
+#### Advantages
+* Playing with the toys can help me relive the happy moments when I was a child.
+* It can help children develop their intelligence at an early age and become smart.
+* Toys can keep me company when I feel lonely.
+* Playing with toys is a part of children's nature. It should not be suppressed.
+#### Disadvantages
+* Some kids may swallow some small parts of the toys and get chocked. It is very dangerous.
+* Some toys are made by cheap materials. They are toxic for the kids.
+* It is time-consuming.
+* Some toys are expensive and fragile.
 ### Transportation
+#### Vocabulary
+* shuttle bus
+* tram
+* cab
+* cruise
+* ferry
+* subway
+* underground
+* aircraft
+#### Advantages
+* The public transportation is cheaper.
+* It is more environmentally friendly than private cars.
+* Its stations cover massive areas, so it is very convenient.
+* I do not have to worry about finding the parking lot.
+#### Disadvantages
+* It is not comfortable, especially in big cities. It is over crowded.
+* Some public transportation may be late.
 ### Travel
+#### Advantages
+* I can see a lot of beautiful views and natural places.
+* I can have a chance to learn about the local culture.
+* It can help me relax.
+* I want to have a chance to see the things that I have never seen before.
+#### Disadvantages
+* It costs a lot of money and time.
+* You may come across some bad guys during the journey.
+* I may get allergic to the local food or some plants there.
+* It is tiring.
 ### Trees
+#### Vocabulary
+* bamboo
+* pine
+* oak
+* maple tree
+* willow
+* hawthorn
+* (fruit) tree
+* camellia
+* coconut
+* palm
+#### Advantages
+* Trees can bring down the temperature of the surface of buildings.
+* Trees can help the landscape look better and more attractive.
+* Trees can refresh the air and make the air more humid.
+* Trees can provide shades.
+* They can reduce the noise on the road.
+* They can protect the environment.
+#### Disadvantages
+* Trees may block the view of many buildings / the drivers.
+* The fallen leaves in autumn are very hard to clean.
 ### TV
+#### Vocabulary
+* quiz show
+* episode
+* soup opera
+* reality show
+* talent show
+* matchmaking show / dating show
+* educational show
+* talk show
+* variety show
+* The Voices of China
+#### Advantages
+* It contains a lot of useful information and knowledge, which can help people learn more about the world.
+* They are entertaining.
+#### Disadvantages
+* It is time-consuming.
+* Some are inappropriate for children.
+* There are too many advertisements.
 ### Visitor
+#### Advantages
+* I live alone and visitors can keep me company.
+* Visiting others is a great way to enhance the relationship between friends and family members.
+#### Disadvantages
+* Visiting others will disturb the hosts.
+* It is difficult to choose suitable gifts.
+* People's home is a private place for themselves.
 ### Climate & Season & Weather
-### Wedding
-### Your Country
+#### Vocabulary
+* dry 
+* humid
+* moist
+* wet
+* freezing
+* cold
+* chill 
+* scorching
 ## Common Colloquial Words and Phrases
 * stuff
 * pretty
