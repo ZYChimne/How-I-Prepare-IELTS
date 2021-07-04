@@ -304,7 +304,7 @@ I put some photographs I take on the wall to make it look nice, such as the pict
 #### Advantages
 ##### Traditional Buildings
 * They are symbols of the traditional culture, representing the art tastes and the intelligence of the country.
-* Old buildings can help people preserve precious memories, especially when they life there for a long time.
+* Old buildings can help people preserve precious memories, especially when they live there for a long time.
 * Many old building have historic meanings,, maybe something important happened there.
 ##### Modern Buildings
 * Modern buildings have advanced facilities, such as elevators / lifts and fire alarms.
