@@ -707,7 +707,7 @@ I put some photographs I take on the wall to make it look nice, such as the pict
 #### Do you like watch TV programs about history
 ##### Yes
 * I can learn history from it, and it is both fun and vivid.
-* Some TV shows invite some famous scholars to the program and they will offer some new ans unique perspective about one historical event.
+* Some TV shows invite some famous scholars to the program and they will offer some new and unique perspective about one historical event.
 ##### No
 * Some TV programs adapt / twist the original stories in unexpected ways, so they could be misleading and untrue.
 * Some stories are fabricated.
