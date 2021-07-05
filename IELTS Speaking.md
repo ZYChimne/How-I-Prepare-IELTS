@@ -468,7 +468,7 @@ I put some photographs I take on the wall to make it look nice, such as the pict
 * Dancing can help people improve their ability of teamwork.
 * Some dance is based on the local culture, and it is part of a tradition.
 #### Disadvantages
-* Dancing is very difficult for people who are clumsy / not flexible/
+* Dancing is very difficult for people who are clumsy / not flexible.
 * Practice dancing in the wrong way may get hurt.
 * Dancing class is very expensive and it takes a lot of time to practice.
 * Dancing consumes too much energy and makes people feel tired and exhausted.
