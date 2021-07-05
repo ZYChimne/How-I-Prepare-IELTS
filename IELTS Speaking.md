@@ -981,7 +981,7 @@ I put some photographs I take on the wall to make it look nice, such as the pict
 * Some neighbors are very nosy.
 * Some neighbors are very cold.
 * Some neighbors throw rubbish everywhere.
-* Some neighbors never considerate how others feel.
+* Some neighbors never consider how others feel.
 ### News
 #### Advantages
 * It is the best way to spread information.
