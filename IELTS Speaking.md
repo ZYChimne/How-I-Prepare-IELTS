@@ -387,7 +387,7 @@ I put some photographs I take on the wall to make it look nice, such as the pict
 #### Disadvantages
 * It costs a lot of money.
 * It takes up too much of time.
-* People's interests change from time to time, so the collections may turn intoa waste when I am not interested in it anymore.
+* People's interests change from time to time, so the collections may turn into a waste when I am not interested in it anymore.
 ### Color
 #### Vocabulary
 * Yellow: warm and bright
