@@ -21,7 +21,9 @@
 * IELTS Speaking Topics 2021.1-4
 ## 2021.7.10
 ### Score
-Yet to take the exarm, good luck to me!
+|Listening|Reading|Writing|Speaking|Overall|
+|:-:|:-:|:-:|:-:|:-:|
+|8.5|8.5|7.0|6.0|7.5|
 ### Problems
 ### Listening
 * Cambridge IELTS Listening
